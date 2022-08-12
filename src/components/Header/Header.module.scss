@@ -1,0 +1,28 @@
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+    height: 40px;
+    align-items: center;
+}
+
+.right {
+    display: flex;
+    align-items: center;
+}
+
+.no_user {
+    margin-right: 20px;
+
+    a {
+        margin-left: 10px;
+    }
+}
+
+.user_info {
+    display: flex;
+    align-items: center;
+
+    a {
+        margin-left: 10px;
+    }
+}

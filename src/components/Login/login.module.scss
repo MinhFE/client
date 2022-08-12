@@ -1,0 +1,27 @@
+.wrapper {
+    width: 80%;
+    height: 200px;
+    background-color: rgb(87, 87, 110);
+    text-align: center;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.err {
+    color: red;
+}
+
+.input {
+    width: 30%;
+    margin-top: 10px;
+}
+
+.btn-login {
+    margin-top: 10px;
+    width: 20%;
+    background-color: greenyellow;
+    outline: none;
+    cursor: pointer;
+}
